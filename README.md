@@ -39,7 +39,7 @@ We’ve got to set our sights somewhere and this feels like the right amount wit
 
 At the time of writing ($0.41/GET) you can pull this together for $410.
 
-Or alternatively if you act as a liquidity provider for the [liquidity mining program](https://medium.com/get-protocol/the-get-liquidity-mining-program-55cc50c4bb7e) contributing 1% of the pool, this will take you 3 months to collect passively without any additional investment of your own. 1% of 32k GET monthly rewards would result in 320 GET per month. After 3 months you'd make 960, and the Uniswap fees you collect during this period would cover the rest.
+Or alternatively if you act as a liquidity provider for the [liquidity mining program](https://medium.com/get-protocol/the-get-liquidity-mining-program-55cc50c4bb7e) contributing 1% of the pool, this will take you 3 months to collect passively without any additional investment of your own. 1% of 32k GET monthly rewards would result in 320 GET per month. After 3 months you'd make 960 GET, and the Uniswap fees you collect during this period would cover the rest.
 
 ## A week!?
 I doubt it honestly. Most of us won’t have either the stamina or the urge. The costings cover a week because travelling from Amsterdam to Vegas wouldn't make sense for most for just a weekend. We’ll only plan for the above 3 nights together as a group and people can dip in and out as they please.
