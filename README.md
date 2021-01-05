@@ -1,4 +1,3 @@
-# Vegas
 > In it for the holiday 🌞📈
 
 ![](get-vegas.jpg)
